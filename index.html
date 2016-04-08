@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Biography</title>
+  </head>
+  <body>
+    <h1>Tom LeSavage</h1>
+    <ul>
+      <h2>Experience</h2>
+      <li>Zamboni Driver</li>
+      <li>Commercial/Residential Leasing Agent</li>
+    </ul>
+    <ul>
+      <h2>Education</h2>
+      <li>Colorado State University</li>
+    </ul>
+    <ul>
+      <h2>Goals</h2>
+      <li>Graduate 201</li>
+      <li>Graduate 301</li>
+      <li>Graduate 401</li>
+    </ul>
+      <script type='text/javascript'>
+    var name = 'Tom';
+    var city = 'Boulder';
+    var team = 'Seahawks';
+
+
+    var userInputName = prompt('What is your name?')
+      if (userInputName === name) {
+        alert('Cool. I like that name.');
+        console.log('User answered' + name);
+      } else {
+        alert('That name is ok I guess');
+        console.log('User did not answer Tom');
+      }
+    var userInputCity = prompt('Where did you grow up?')
+      if (userInputCity === city) {
+        alert('Cool spot');
+        console.log('User answered Boulder');
+      } else {
+        alert('You grew up outside of Boulder CO')
+        console.log('User answered a city other than Boulder CO');
+      }
+    var userInputTeam = prompt('What is your favorite sports team?')
+      if (userInputTeam === team){
+        alert('Go Seahawks');
+        console.log('User answered Seahawks');
+      } else {
+        alert('Your team sucks')
+        console.log('User answered a team other than Seahawks');
+      }
+
+
+      </script>
+  </body>
+</html>
