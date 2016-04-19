@@ -1,9 +1,4 @@
-//
-// var name = 'tom';
-// var city = 'boulder';
-// var team = 'seahawks';
-// var correctAnswers = 0;
-// var counter = 0;
+
 var pUserName = document.getElementById('user-Name');
 var pAnsOne = document.getElementById('ans-one');
 var pAnsTwo = document.getElementById('ans-two');
@@ -23,7 +18,7 @@ var arrQuestions = [
   'Guess a number (1-10)'
 ];
 var arrAnswers = [
-  'Y',//['Y', 'YES'] referenced as userInput === answer[0]
+  'Y',
   'N',
   'Y',
   34,
