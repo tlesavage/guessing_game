@@ -22,7 +22,7 @@ var arrAnswers = [
   'N',
   'Y',
   34,
-  21
+  21,
 ];
 
 var userName = prompt('What is my name?');
@@ -36,7 +36,7 @@ function game(question, answer, element)  {
 if (typeof answer === 'number') {
   var newCounter = 0;
   while (newCounter <= 3) {
-    if(userInput === answer)
+    if(userInput === answer) {
       element.textContent = 'That\'s Right';
       counter++;
       break;
