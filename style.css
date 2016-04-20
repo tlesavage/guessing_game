@@ -1,8 +1,20 @@
 h1 {
   font-family: helvetica;
-  color: blue;
+  color: black;
 }
 
 html {
   background-color: green;
+  font-family: sans-serif;
+}
+
+h2 {
+  width: 240px;
+  height: 25px;
+  border: 3px solid black;
+  background: #eee;
+}
+
+li {
+  list-style-type: disc;
 }
