@@ -1,8 +1,6 @@
 # guessing_game
 
 
-
-
 Tom Lesavage
 Class: seattle-201n3
 Assignment: N5

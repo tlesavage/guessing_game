@@ -1,6 +1,6 @@
 h1 {
   font-family: helvetica;
-  color: blue;
+  color: black;
 }
 
 html {
@@ -9,7 +9,7 @@ html {
 }
 
 h2 {
-  width: 140px;
+  width: 240px;
   height: 25px;
   border: 3px solid black;
   background: #eee;
@@ -17,5 +17,4 @@ h2 {
 
 li {
   list-style-type: disc;
-
 }
