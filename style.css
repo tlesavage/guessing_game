@@ -1,0 +1,28 @@
+h1 {
+  font-family: helvetica;
+  color: black;
+
+}
+
+html {
+  background-color: #F5F5DC;
+  font-family: sans-serif;
+}
+
+h2 {
+  width: 230px;
+  height: 25px;
+  border: 2px solid black;
+  background: #C9C9C5;
+}
+
+li {
+  list-style-type: disc;
+}
+
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+}
