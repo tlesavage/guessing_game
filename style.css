@@ -1,24 +1,40 @@
+<<<<<<< HEAD
 html {
   background-color: #F5F5DC;
   font-family: sans-serif;
 }
 
+=======
+>>>>>>> 367e61da24c71d77f193cbff7366af5bed1733b7
 h1 {
   font-family: helvetica;
   color: black;
 
 }
 
+<<<<<<< HEAD
+=======
+html {
+  background-color: green;
+  font-family: sans-serif;
+}
+
+>>>>>>> 367e61da24c71d77f193cbff7366af5bed1733b7
 h2 {
   width: 230px;
   height: 25px;
   border: 2px solid black;
+<<<<<<< HEAD
   background: #C9C9C5;
+=======
+  background: #eee;
+>>>>>>> 367e61da24c71d77f193cbff7366af5bed1733b7
 }
 
 li {
   list-style-type: disc;
 }
+<<<<<<< HEAD
 
 .correct {
   color: green;
@@ -26,3 +42,5 @@ li {
 .incorrect {
   color: red;
 }
+=======
+>>>>>>> 367e61da24c71d77f193cbff7366af5bed1733b7
